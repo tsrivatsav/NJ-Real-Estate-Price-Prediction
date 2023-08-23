@@ -1,0 +1,351 @@
+Location,Price,Area_Type,Bedroom,Bathroom,Square_feet,Lot_Size,Year_Built
+0,"19 Goldenrod Pl, Vernon Twp., NJ, 07418","$79,900",Single Family Residential,2,2,— Sq Ft,0.37 Acres,2023
+1,"45 Aldine Shirley Rd, Elmer, NJ, 08318","$84,900",Vacant Land,—,—,1.00 Acre (Lot),1 Acre,2022
+2,"1 Victory Ave #16, Pennsville, NJ, 08070","$94,900",Single Family Residential,2,1,896 Sq Ft,18.45 Acres,2021
+3,"1205 Farrell Ave #4, Cherry Hill, NJ, 08002","$109,000",Single Family Residential,2,1,784 Sq Ft,"1,950 Sq. Ft.",2023
+4,"1887 N Delsea Dr #8, Vineland, NJ, 08360","$114,900",Single Family Residential,2,1,832 Sq Ft,—,2022
+5,"1887 N Delsea Dr #10, Vineland, NJ, 08360","$114,900",Single Family Residential,2,1,832 Sq Ft,—,2022
+6,"4 Sterling Ct, East Windsor, NJ, 08520","$114,900",Single Family Residential,2,2,— Sq Ft,"1,000 Sq. Ft.",2023
+7,"209 Stephen Kritz Ln Ln, Clarksboro, NJ, 08020","$122,668",Townhouse,2,1,850 Sq Ft,"4,000 Sq. Ft.",2023
+8,"1887 N Delsea Dr #39, Vineland, NJ, 08360","$124,900",Single Family Residential,3,2,"1,056 Sq Ft",—,2021
+9,"209 Shute Farm Ln, Clarksboro, NJ, 08020","$127,466",Townhouse,2,1,850 Sq Ft,"4,000 Sq. Ft.",2023
+10,"8 Avenue D, Hazlet, NJ, 07730","$127,900","Single Family, Attached",2,1,— Sq Ft,—,2023
+11,"1444 Princess Ave, Camden, NJ, 08103","$129,000",Townhouse,3,2,— Sq Ft,"2,801 Sq. Ft.",2023
+12,"1231 Empire Ave, Camden, NJ, 08103","$129,000",Townhouse,3,2,— Sq Ft,"2,701 Sq. Ft.",2023
+13,"2501 tilton road # Tilton Road #104, Egg Harbor Township, NJ, 08234","$129,900",Single Family Residential,3,2,"1,056 Sq Ft",—,2023
+14,"1887 N Delsea Dr #21, Vineland, NJ, 08360","$137,900",Single Family Residential,3,2,"1,120 Sq Ft",—,2021
+15,"18 John St, Hazlet, NJ, 07730","$139,900","Single Family, Attached",2,1,— Sq Ft,—,2023
+16,"Lot #00024 Central Ave, Pittsgrove, NJ, 08318","$144,000",Ranch,—,—,— Sq Ft,4.56 Acres,2022
+17,"191 Us Highway 9, Englishtown, NJ, 07726","$149,900","Adult Community, Detached",2,1,— Sq Ft,2.9 Acres,2023
+18,"1 Victory Ave #73, Pennsville, NJ, 08070","$153,900",Single Family Residential,3,2,"1,056 Sq Ft",18.45 Acres,2022
+19,"5604 Briarwood Dr, Millville, NJ, 08332","$259,000",Single Family Residential,3,2,— Sq Ft,"10,102 Sq. Ft.",2022
+20,"175 Delaware Dr, Pennsville, NJ, 08070","$259,900",Single Family Residential,3,2,"1,040 Sq Ft","10,018 Sq. Ft.",2022
+21,"0 Greenwich Rd, Bridgeton, NJ, 08302","$294,999",Single Family Residential,3,2,"1,320 Sq Ft",1.45 Acres,2023
+22,"429 Quigley Ave, Vineland, NJ, 08360","$299,900",Single Family Residential,3,2.5,"1,446 Sq Ft",0.32 Acres,2022
+23,"11 Morongo Ct, Toms River, NJ, 08757","$300,000","Adult Community, Detached",2,2,— Sq Ft,"5,227 Sq. Ft.",2023
+24,"62 Gasko Rd, Mays Landing, NJ, 08330","$314,900",Single Family,2,2, Sq Ft,"3,920 Sq. Ft.",2023
+25,"64 Gasko Rd, Mays Landing, NJ, 08330","$314,900",Single Family,2,2, Sq Ft,"3,920 Sq. Ft.",2023
+26,"90 Gasko Rd, Mays Landing, NJ, 08330","$319,900",Single Family,2,2, Sq Ft,"4,356 Sq. Ft.",2023
+27,"1084 New Peach St, Vineland, NJ, 08360","$340,000",Single Family Residential,3,2.5,— Sq Ft,0.42 Acres,2023
+28,"21 E Jones Ave, Edgewater Park, NJ, 08010","$344,990",Townhouse,3,2.5,"1,575 Sq Ft","2,039 Sq. Ft.",2023
+29,"15 Senators Way, Berlin, NJ, 08009","$345,900",Single Family Residential,2,2,"1,183 Sq Ft","6,050 Sq. Ft.",2022
+30,"270 West Ave, Bridgeton, NJ, 08302","$349,900",Single Family Residential,3,2.5,— Sq Ft,0.65 Acres,2023
+31,"103 Fischer Ct, Rockaway Twp., NJ, 07866","$349,900",Townhouse,1,1,914 Sq Ft,—,2021
+32,"117 Mazzeo Dr, Glassboro, NJ, 08028","$349,990",Townhouse,3,2.5,"1,500 Sq Ft","1,346 Sq. Ft.",2023
+33,"375 Bailey St, Woodstown, NJ, 08098","$350,000",Single Family Residential,3,2,"1,300 Sq Ft",0.51 Acres,2023
+34,"133 Mazzeo Dr, Glassboro, NJ, 08028","$353,990",Townhouse,3,2.5,"1,500 Sq Ft","1,346 Sq. Ft.",2023
+35,"10 Panmure Way, Williamstown, NJ, 08094","$354,900",Townhouse,2,2,"1,567 Sq Ft","3,443 Sq. Ft.",2022
+36,"129 Mazzeo Dr, Glassboro, NJ, 08028","$354,990",Townhouse,3,2.5,"1,500 Sq Ft","1,346 Sq. Ft.",2023
+37,"137 Mazzeo Dr, Glassboro, NJ, 08028","$355,990",Townhouse,3,2.5,— Sq Ft,"2,178 Sq. Ft.",2023
+38,"141 Mazzeo Dr, Glassboro, NJ, 08028","$358,990",Townhouse,3,2.5,"1,500 Sq Ft","1,346 Sq. Ft.",2023
+39,"107 Tomahawk Ter, Montague Twp., NJ, 07827","$359,000",Single Family Residential,3,2,— Sq Ft,0.44 Acres,2022
+40,"4 Mill Creek Ct, Bayville, NJ, 08721","$359,000",Townhouse,2,2.5,"1,732 Sq Ft",—,2023
+41,"10 Mill Creek Ct, Bayville, NJ, 08721","$359,000",Townhouse,2,2.5,"1,732 Sq Ft",—,2023
+42,"6 Mill Creek Ct, Bayville, NJ, 08721","$359,000",Townhouse,2,2.5,"1,732 Sq Ft",—,2023
+43,"8 Mill Creek Ct, Bayville, NJ, 08721","$359,000",Townhouse,2,2.5,"1,732 Sq Ft",—,2023
+44,"4 Panmure Way, Williamstown, NJ, 08094","$359,900",Townhouse,2,2,"1,889 Sq Ft","3,443 Sq. Ft.",2022
+45,"600 Vick St, Cape May Court House, NJ, 08210","$364,990",Single Family Residential,4,2,"1,497 Sq Ft",0.35 Acres,2023
+46,"7418 Zimmerman Ave, Pennsauken, NJ, 08110","$365,000",Townhouse,3,3,"1,850 Sq Ft",0.26 Acres,2022
+47,"001 Castleton Dr, Williamstown, NJ, 08094","$366,900",Single Family Residential,2,2,"1,484 Sq Ft",,2023
+48,"2a Panmure Way, Williamstown, NJ, 08094","$369,900",Townhouse,2,2,"1,889 Sq Ft","3,443 Sq. Ft.",2022
+49,"2 Panmure Way, Williamstown, NJ, 08094","$369,900",Single Family Residential,2,2,"1,889 Sq Ft","3,443 Sq. Ft.",2022
+50,"601 S George St, Cape May Court House, NJ, 08210","$369,990",Single Family Residential,4,2,"1,497 Sq Ft",0.35 Acres,2023
+51,"200 Reeves St, Cape May Court House, NJ, 08210","$369,990",Single Family Residential,4,2,"1,497 Sq Ft",0.35 Acres,2023
+52,"410 Dalton Dr, Swedesboro, NJ, 08085","$369,990",Townhouse,3,2.5,"1,960 Sq Ft","4,138 Sq. Ft.",2021
+53,"600 Vick St, Middle Township, Cape May Point, NJ, 08212","$369,990",Single Family Residential,3,2,"1,497 Sq Ft",,2023
+54,"200 Reeves St, Middle Township, Cape May Point, NJ, 08212","$369,990",Single Family Residential,3,2,"1,497 Sq Ft",,2023
+55,"601 S George St, Middle Townsh, Cape May Point, NJ, 08212","$369,990",Single Family Residential,3,2,"1,497 Sq Ft",,2023
+56,"43 Nelson's Way, Westampton, NJ, 08060","$371,490",Townhouse,3,2.5,"1,500 Sq Ft","1,740 Sq. Ft.",2022
+57,"29 Panmure Way, Williamstown, NJ, 08094","$372,020",Single Family Residential,2,2,"1,735 Sq Ft","3,443 Sq. Ft.",2023
+58,"60 Nelson's Way, Westampton, NJ, 08060","$372,990",Townhouse,3,2.5,"1,500 Sq Ft","1,740 Sq. Ft.",2022
+59,"33 Queensferry Dr, Williamstown, NJ, 08094","$374,740",Townhouse,2,2,"1,889 Sq Ft","3,443 Sq. Ft.",2023
+60,"62 Nelson's Way, Westampton, NJ, 08060","$374,990",Townhouse,3,2.5,"1,500 Sq Ft","1,740 Sq. Ft.",2022
+61,"15 String St, Alloway, NJ, 08001","$375,000",Single Family Residential,3,2.5,"1,600 Sq Ft","9,148 Sq. Ft.",2023
+62,"002 Castleton Dr, Williamstown, NJ, 08094","$384,900",Single Family Residential,3,2,"1,695 Sq Ft",,2023
+63,"3 Queensferry Dr, Williamstown, NJ, 08094","$386,967",Townhouse,2,2,"1,735 Sq Ft","3,443 Sq. Ft.",2022
+64,"303 Fischer #303, Rockaway Twp., NJ, 07866","$389,900",Townhouse,1,1,914 Sq Ft,—,2021
+65,"5 Queensfery Dr, Williamstown, NJ, 08094","$390,067",Townhouse,2,2,"1,735 Sq Ft","3,443 Sq. Ft.",2022
+66,"32 Queensferry Dr, Williamstown, NJ, 08094","$391,978",Townhouse,2,2,"1,889 Sq Ft","3,443 Sq. Ft.",2023
+67,"003 Castleton Dr, Williamstown, NJ, 08094","$394,900",Single Family Residential,3,2,"1,828 Sq Ft",,2023
+68,"58 Nelson's Way, Westampton, NJ, 08060","$395,790",Townhouse,3,2.5,"1,500 Sq Ft","1,740 Sq. Ft.",2022
+69,"111 Rena St, Newfield, NJ, 08344","$399,000",Single Family Residential,3,2.5,— Sq Ft,0.93 Acres,2023
+70,"0 Harding Hwy, Mays Landing, NJ, 08330","$399,000",Single Family Residential,3,2,"1,244 Sq Ft",9.75 Acres,2023
+71,"5 Mississippi Ave, Jefferson Twp., NJ, 07849","$399,900",Single Family Residential,2,2.5,— Sq Ft,"3,920 Sq. Ft.",2022
+72,"41 Main St, Peapack Gladstone Boro, NJ, 07977","$399,999",Single Family Residential,3,3,— Sq Ft,1.75 Acres,2023
+73,"334 Rolling Rdg, Montague Twp., NJ, 07827","$400,000",Single Family Residential,3,2,— Sq Ft,"10,454 Sq. Ft.",2023
+74,"210 Squam Rd, Vernon Twp., NJ, 07422","$400,000",Single Family Residential,3,2.5,— Sq Ft,0.28 Acres,2023
+75,"135 Hemlock, Montague Twp., NJ, 07827","$400,000",Single Family Residential,3,2,— Sq Ft,0.46 Acres,2023
+76,"004 Castleton Dr, Williamstown, NJ, 08094","$402,900",Single Family Residential,3,2,— Sq Ft,,2023
+77,"26 Paula Ln, Green Creek, NJ, 08204","$407,000",Single Family,3,2,"1,200 Sq Ft","7,200 Sq. Ft.",2023
+78,"1320 Tatum St, Woodbury, NJ, 08096","$420,000",Single Family Residential,4,2.5,"1,636 Sq Ft","7,492 Sq. Ft.",2023
+79,"322 Grand Ave, Hamilton, NJ, 08610","$425,000",Single Family Residential,3,2.5,"1,554 Sq Ft","6,299 Sq. Ft.",2023
+80,"210 Squam Rd, Vernon Twp., NJ, 07422","$400,000",Single Family Residential,3,2.5,— Sq Ft,0.28 Acres,2023
+81,"135 Hemlock, Montague Twp., NJ, 07827","$400,000",Single Family Residential,3,2,— Sq Ft,0.46 Acres,2023
+82,"004 Castleton Dr, Williamstown, NJ, 08094","$402,900",Single Family Residential,3,2,— Sq Ft,,2023
+83,"26 Paula Ln, Green Creek, NJ, 08204","$407,000",Single Family,3,2,"1,200 Sq Ft","7,200 Sq. Ft.",2023
+84,"1320 Tatum St, Woodbury, NJ, 08096","$420,000",Single Family Residential,4,2.5,"1,636 Sq Ft","7,492 Sq. Ft.",2023
+85,"1320 Tatum St, Woodbury, NJ, 08096","$420,000",Single Family Residential,4,2.5,"1,636 Sq Ft","7,492 Sq. Ft.",2023
+86,"322 Grand Ave, Hamilton, NJ, 08610","$425,000",Single Family Residential,3,2.5,"1,554 Sq Ft","6,299 Sq. Ft.",2023
+87,"309 Kenyon Ave, Millville, NJ, 08332","$425,000",Single Family Residential,3,2.5,"1,643 Sq Ft",2.1 Acres,2022
+88,"2531 45th St, Pennsauken, NJ, 08109","$425,000",Single Family Residential,6,4,"3,120 Sq Ft",—,2022
+89,"1405 Walnut St, Glassboro, NJ, 08028","$425,000",Single Family Residential,3,2,"1,850 Sq Ft",0.29 Acres,2022
+90,"1401 Walnut St, Glassboro, NJ, 08028","$425,000",Single Family Residential,3,2,"1,850 Sq Ft",0.29 Acres,2022
+91,"18 Ernst Ct, Mays Landing, NJ, 08330","$429,900",Single Family Residential,2,2,"1,880 Sq Ft","6,098 Sq. Ft.",2022
+92,"29 Simpkins Ln, Pemberton, NJ, 08068","$429,900",Single Family Residential,2,2,"1,800 Sq Ft","5,000 Sq. Ft.",2023
+93,"16 Simpkins Ln, Pemberton, NJ, 08068","$429,900",Single Family Residential,3,2,"1,800 Sq Ft","1,800 Sq. Ft.",2023
+94,"16 Simpkins Ln, Pemberton, NJ, 08068","$429,900",Single Family Residential,3,2,"1,800 Sq Ft","1,800 Sq. Ft.",2023
+95,"25 Budhollow Ln, Willingboro, NJ, 08046","$435,000",Single Family Residential,4,2.5,"2,264 Sq Ft","6,500 Sq. Ft.",2022
+96,"1 Babcock Ln, Willingboro, NJ, 08046","$435,000",Single Family Residential,4,2.5,— Sq Ft,"6,500 Sq. Ft.",2023
+97,"3 Pin Oak Dr, Mays Landing, NJ, 08330","$435,000",Single Family,4,2, Sq Ft,0.28 Acres,2022
+98,"520 3rd Ave, Woodbury, NJ, 08096","$439,900",Single Family Residential,4,2.5,"1,500 Sq Ft","5,998 Sq. Ft.",2022
+99,"2 Cades Ct, Newfield, NJ, 08344","$439,990",Single Family Residential,4,2.5,"1,906 Sq Ft",1.01 Acres,2023
+100,"14 Simpkins Ln, Pemberton, NJ, 08068","$449,900",Single Family Residential,3,3,— Sq Ft,"9,468 Sq. Ft.",2023
+101,"517 Parkwood Ct, Phillipsburg Town, NJ, 08865","$449,900",Single Family Residential,4,2.5,— Sq Ft,"7,840 Sq. Ft.",2023
+102,"310 Superior Rd, Egg Harbor Township, NJ, 08234","$449,990",Single Family Residential,4,2.5,"1,906 Sq Ft","6,534 Sq. Ft.",2023
+103,"26 Cades Ct, Newfield, NJ, 08344","$449,990",Single Family Residential,4,2.5,"1,906 Sq Ft",1.01 Acres,2023
+104,"4703 Pennsylvania Ave, Vineland, NJ, 08361","$450,000",Single Family Residential,4,2.5,"2,287 Sq Ft",1 Acre,2023
+105,"14 Cades Ct, Newfield, NJ, 08344","$454,990",Single Family Residential,4,2.5,"1,906 Sq Ft",1.01 Acres,2023
+106,"25 Cades Ct, Newfield, NJ, 08344","$458,990",Single Family Residential,4,2.5,"1,906 Sq Ft",1.01 Acres,2023
+107,"49 Somerset Ave, Sewell, NJ, 08080","$459,900",Single Family Residential,4,2.5,"2,532 Sq Ft",0.39 Acres,2021
+108,"Cayuga Way, Sicklerville, NJ, 08081","$459,900",Single Family Residential,4,2.5,— Sq Ft,"9,374 Sq. Ft.",2021
+109,"19 Stanton Rd, Mount Holly, NJ, 08060","$459,990",Townhouse,3,2.5,"2,208 Sq Ft","1,921 Sq. Ft.",2023
+110,"17 Cades Ct, Newfield, NJ, 08344","$459,990",Single Family Residential,4,2.5,"1,906 Sq Ft",1.01 Acres,2023
+111,"720 Kuser Rd, Hamilton, NJ, 08619","$460,000",Single Family Residential,2,2,"1,381 Sq Ft",1.59 Acres,2021
+112,"720 Kuser Rd, Hamilton, NJ, 08619","$460,000",Single Family Residential,2,2,"1,381 Sq Ft",1.59 Acres,2021
+113,"13 Cades Ct, Newfield, NJ, 08344","$462,990",Single Family Residential,4,2.5,"1,906 Sq Ft",1.01 Acres,2023
+114,"90 Valerie Dr, Manville Boro, NJ, 08835","$465,000",Townhouse,3,2.5,— Sq Ft,—,2023
+115,"373 Minck Ave, West Berlin, NJ, 08091","$468,888",Single Family Residential,4,2.5,— Sq Ft,—,2023
+116,"373 Minck Ave, West Berlin, NJ, 08091","$468,888",Single Family Residential,4,2.5,— Sq Ft,—,2023
+117,"316 W Lincoln Ave #101, Wildwood, NJ, 08260","$469,900",Condo,3,2,— Sq Ft,—,2023
+118,"3007 Cottonwood Ave, Egg Harbor Township, NJ, 08234","$474,990",Single Family Residential,4,2.5,"1,906 Sq Ft",0.25 Acres,2023
+119,"853 Rebecca Pl, Elizabeth City, NJ, 07201","$475,000",Single Family Residential,3,2,— Sq Ft,"3,049 Sq. Ft.",2021
+120,"316 W Lincoln Ave #201, Wildwood, NJ, 08260","$489,900",Condo,3,2,— Sq Ft,—,2023
+121,"316 W Lincoln Ave #202, Wildwood, NJ, 08260","$489,900",Condo,3,2,— Sq Ft,—,2023
+122,"22 Cades Ct, Newfield, NJ, 08344","$489,990",Single Family Residential,4,2.5,"2,340 Sq Ft",1.01 Acres,2023
+123,"30 Cades Ct, Newfield, NJ, 08344","$489,990",Single Family Residential,4,2.5,"2,340 Sq Ft",1.01 Acres,2023
+124,"9 Cades Ct, Newfield, NJ, 08344","$489,990",Single Family Residential,4,2.5,"2,340 Sq Ft",1.01 Acres,2023
+125,"29 Cades Court, Newfield, Newfield, NJ, 08344","$489,990",Single Family Residential,4,2.5,"2,340 Sq Ft",,2023
+126,"694 Fox Run Rd, Sewell, NJ, 08080","$490,000",Ranch,—,—,— Sq Ft,17.46 Acres,2023
+127,"209 Aaron Truehart Way, Titusville, NJ, 08560","$494,415",Condo,2,2,"1,306 Sq Ft",,2023
+128,"215 Aaron Truehart Way, Titusville, NJ, 08560","$494,415",Condo,2,2,"1,306 Sq Ft",,2023
+129,"11 Maine St, Jefferson Twp., NJ, 07849","$495,000",Single Family Residential,3,3,"2,500 Sq Ft","4,356 Sq. Ft.",2023
+130,"5325 Palomino Ct, Cherry Hill, NJ, 08002","$495,000",Condo,2,2,"1,378 Sq Ft",—,2021
+131,"221 Aaron Truehart Way, Titusville, NJ, 08560","$496,915",Condo,2,2,"1,306 Sq Ft",,2023
+132,"401 2nd St, Haddon Township, NJ, 08033","$499,000",Single Family Residential,4,3,"2,275 Sq Ft","4,000 Sq. Ft.",2023
+133,"503 Weymouth Rd, Buena, NJ, 08310","$499,000",Single Family Residential,3,2.5,"1,525 Sq Ft",4.83 Acres,2023
+134,"8 Outlook Ave, Mount Olive Twp., NJ, 07828","$499,900",Single Family Residential,4,2.5,"2,300 Sq Ft","5,662 Sq. Ft.",2022
+135,"1076 Green Pond Rd, Rockaway Twp., NJ, 07435","$499,900",Condo,3,2.5,— Sq Ft,"4,356 Sq. Ft.",2023
+136,"6 Anderson Way, Cape May Court House, NJ, 08210","$499,900",Single Family,3,2,"1,525 Sq Ft",0.56 Acres,2023
+137,"108 Mulberry St, Delran, NJ, 08075","$499,900",Townhouse,3,3,"2,323 Sq Ft",0.34 Acres,2022
+138,"15 E Atlantic Ave, Cape May Court House, NJ, 08210","$499,990",Single Family Residential,4,2.5,"1,934 Sq Ft",0.35 Acres,2023
+139,"114 Sandpiper Ln #08, Little Egg Harbor, NJ, 08087","$499,990","Single Family, Detached",4,3,"2,080 Sq Ft",0.29 Acres,2022
+140,"104 Harbelle Way, Mullica Hill, NJ, 08062","$500,500",Single Family Residential,2,2,"1,643 Sq Ft","5,500 Sq. Ft.",2023
+141,"10 Sister's Farmstead Rd, Mount Laurel, NJ, 08054","$508,500",Townhouse,3,3.5,"2,270 Sq Ft","2,200 Sq. Ft.",2023
+142,"44 Sportsman Blvd, Hamilton, NJ, 08690","$509,500",Townhouse,3,2.5,"2,420 Sq Ft","3,450 Sq. Ft.",2022
+143,"402 Monte Farm Rd, Mount Laurel, NJ, 08054","$513,210",Townhouse,3,2.5,"2,270 Sq Ft","2,200 Sq. Ft.",2023
+144,"18 Sister's Farmstead Rd, Mount Laurel, NJ, 08054","$513,220",Townhouse,3,3.5,"2,270 Sq Ft","2,200 Sq. Ft.",2023
+145,"14 Tower Blvd, Eastampton, NJ, 08060","$513,290",Single Family Residential,3,2,"1,846 Sq Ft",,2023
+146,"63 Beach Dr, Eastampton, NJ, 08060","$515,790",Single Family Residential,3,2,"1,846 Sq Ft","6,875 Sq. Ft.",2023
+147,"38 Mantoloking Dr, Jackson Township, NJ, 08527","$515,990",Townhouse,3,3.5,"1,934 Sq Ft",,2023
+148,"56 Beach Dr, Eastampton, NJ, 08060","$516,140",Single Family Residential,2,2,"1,728 Sq Ft",,2023
+149,"404 Monte Farm Rd, Mount Laurel, NJ, 08054","$517,210",Townhouse,3,2.5,"2,270 Sq Ft","2,200 Sq. Ft.",2023
+150,"37 Sportsman Blvd, Hamilton, NJ, 08690","$519,500",Townhouse,3,2.5,"2,466 Sq Ft","3,442 Sq. Ft.",2021
+151,"121 Churchill Blvd, Plumsted, NJ, 08533","$519,790","Adult Community, Detached",2,2,"1,728 Sq Ft",—,2023
+152,"12 Sister's Farmstead Rd, Mount Laurel, NJ, 08054","$520,210",Townhouse,3,2.5,"2,270 Sq Ft","2,200 Sq. Ft.",2023
+153,"35 Sportsman Blvd, Hamilton, NJ, 08690","$521,020",Townhouse,3,2.5,"2,420 Sq Ft","3,442 Sq. Ft.",2021
+154,"225 Aaron Truehart Way, Titusville, NJ, 08560","$521,915",Condo,2,2,"1,323 Sq Ft",,2023
+155,"14 Sister's Farmstead Rd, Mount Laurel, NJ, 08054","$524,210",Townhouse,3,2.5,"2,270 Sq Ft","2,200 Sq. Ft.",2023
+156,"917 5th St, Union Beach, NJ, 07735","$524,900","Single Family, Detached",4,4,— Sq Ft,"2,613 Sq. Ft.",2023
+157,"35 Saratoga Rd, New Egypt, NJ, 08533","$525,000",Single Family Residential,3,2,"1,942 Sq Ft","6,055 Sq. Ft.",2021
+158,"18 Lilac Cir, Mount Laurel, NJ, 08054","$527,210",Townhouse,3,2.5,"2,270 Sq Ft",,2023
+159,"546 Jackson Rd, Atco, NJ, 08004","$529,900",Single Family Residential,4,2.5,"2,547 Sq Ft",0.51 Acres,2023
+160,"38 Mantoloking Dr, Jackson Township, NJ, 08527","$515,990",Townhouse,3,3.5,"1,934 Sq Ft",,2023
+161,"56 Beach Dr, Eastampton, NJ, 08060","$516,140",Single Family Residential,2,2,"1,728 Sq Ft",,2023
+162,"404 Monte Farm Rd, Mount Laurel, NJ, 08054","$517,210",Townhouse,3,2.5,"2,270 Sq Ft","2,200 Sq. Ft.",2023
+163,"37 Sportsman Blvd, Hamilton, NJ, 08690","$519,500",Townhouse,3,2.5,"2,466 Sq Ft","3,442 Sq. Ft.",2021
+164,"121 Churchill Blvd, Plumsted, NJ, 08533","$519,790","Adult Community, Detached",2,2,"1,728 Sq Ft",—,2023
+165,"12 Sister's Farmstead Rd, Mount Laurel, NJ, 08054","$520,210",Townhouse,3,2.5,"2,270 Sq Ft","2,200 Sq. Ft.",2023
+166,"35 Sportsman Blvd, Hamilton, NJ, 08690","$521,020",Townhouse,3,2.5,"2,420 Sq Ft","3,442 Sq. Ft.",2021
+167,"225 Aaron Truehart Way, Titusville, NJ, 08560","$521,915",Condo,2,2,"1,323 Sq Ft",,2023
+168,"14 Sister's Farmstead Rd, Mount Laurel, NJ, 08054","$524,210",Townhouse,3,2.5,"2,270 Sq Ft","2,200 Sq. Ft.",2023
+169,"917 5th St, Union Beach, NJ, 07735","$524,900","Single Family, Detached",4,4,— Sq Ft,"2,613 Sq. Ft.",2023
+170,"35 Saratoga Rd, New Egypt, NJ, 08533","$525,000",Single Family Residential,3,2,"1,942 Sq Ft","6,055 Sq. Ft.",2021
+171,"18 Lilac Cir, Mount Laurel, NJ, 08054","$527,210",Townhouse,3,2.5,"2,270 Sq Ft",,2023
+172,"546 Jackson Rd, Atco, NJ, 08004","$529,900",Single Family Residential,4,2.5,"2,547 Sq Ft",0.51 Acres,2023
+173,"251 Congressional Ct, Moorestown, NJ, 08057","$533,750",Single Family Residential,4,3,"2,500 Sq Ft","5,500 Sq. Ft.",2023
+174,"36 Mantoloking Dr, Jackson Township, NJ, 08527","$533,990",Townhouse,3,3.5,"1,934 Sq Ft",,2023
+175,"18 Staysail Ave, Barnegat, NJ, 08005","$534,195",Single Family Residential,4,2.5,"1,906 Sq Ft",0.25 Acres,2023
+176,"406 Monte Farm Rd, Mount Laurel, NJ, 08054","$534,210",Townhouse,3,2.5,"2,270 Sq Ft","2,200 Sq. Ft.",2023
+177,"724 Brighton Dr, Linwood, NJ, 08221","$534,900",Single Family Residential,4,2.5,"1,906 Sq Ft",0.25 Acres,2023
+178,"357 S Ash Ave, Galloway Township, NJ, 08205","$539,000",Single Family,5,3, Sq Ft,0.33 Acres,2023
+179,"2 Lilac Cir, Mount Laurel, NJ, 08054","$539,210",Townhouse,3,2.5,"2,270 Sq Ft","2,200 Sq. Ft.",2023
+180,"16 Burr St, Barnegat, NJ, 08005","$539,900",Single Family Residential,4,2.5,"2,169 Sq Ft","10,358 Sq. Ft.",2022
+181,"258 Congressional Ct, Moorestown, NJ, 08057","$544,000",Single Family Residential,3,3,"2,401 Sq Ft","5,500 Sq. Ft.",2023
+182,"142 Pond School Rd, Wantage Twp., NJ, 07461","$545,900",Single Family Residential,3,2.5,— Sq Ft,4.88 Acres,2023
+183,"40 Oak St, Keansburg, NJ, 07734","$549,000","Single Family, Detached",3,2.5,— Sq Ft,"2,500 Sq. Ft.",2023
+184,"118 W Rio Grande Ave #1, Wildwood, NJ, 08260","$549,000",Condo,4,2.5,— Sq Ft,—,2023
+185,"4662 Lake Rd, Newfield, NJ, 08344","$549,900",Single Family Residential,4,2.5,"2,144 Sq Ft",0.92 Acres,2023
+186,"200 Lake Wallkill Rd, Vernon Twp., NJ, 07461","$549,900",Single Family Residential,3,3.5,"1,976 Sq Ft",2.57 Acres,2022
+187,"103 W Drumbed Rd, Villas, NJ, 08251","$549,990",Single Family Residential,4,2,"1,497 Sq Ft","7,405 Sq. Ft.",2023
+188,"16 Phoebe Dr, Barnegat, NJ, 08005","$549,995",Single Family Residential,4,2.5,"2,169 Sq Ft","10,295 Sq. Ft.",2023
+189,"453 Waterfords Edge Ct, Atco, NJ, 08004","$550,000",Single Family,3,2.5, Sq Ft,"8,704 Sq. Ft.",2022
+190,"453 Waterfords Edge Ct, Atco, NJ, 08004","$550,000",Single Family,3,2.5, Sq Ft,"8,704 Sq. Ft.",2022
+191,"56 Harvest Way, Little Falls, NJ, 07424","$552,440",Multi-Family (2-4 Unit),3,2.5,"1,499 Sq Ft",,2023
+192,"50 Harvest Way, Little Falls Twp., NJ, 07424","$552,640",Townhouse,2,3,"1,499 Sq Ft",—,2023
+193,"105 W Drumbed Rd, Villas, NJ, 08251","$554,990",Single Family Residential,4,2,"1,497 Sq Ft","7,405 Sq. Ft.",2023
+194,"14 Misty Meadow Ln, Hamilton Twp., NJ, 08619","$555,880",Single Family Residential,4,2.5,"2,960 Sq Ft",—,2023
+195,"54 Raccoon Ln, Barnegat, NJ, 08005","$559,000",Single Family Residential,2,2,"2,080 Sq Ft","6,098 Sq. Ft.",2022
+196,"333 First St #6, Keyport, NJ, 07735","$559,000",Condo,3,2.5,"1,700 Sq Ft",—,2023
+197,"333 First St #5, Keyport, NJ, 07735","$559,000",Condo,3,2.5,"1,700 Sq Ft",—,2023
+198,"333 First St #3, Keyport, NJ, 07735","$559,000",Condo,3,2.5,"1,700 Sq Ft",—,2023
+199,"333 First St #3, Keyport, NJ, 07735","$559,000",Condo,3,2.5,"1,700 Sq Ft",—,2023
+200,"28 Phoebe Dr, Barnegat, NJ, 08005","$572,195",Single Family Residential,4,2.5,"2,169 Sq Ft","10,200 Sq. Ft.",2023
+201,"39 Phoebe Dr, Barnegat, NJ, 08005","$572,195",Single Family Residential,4,2.5,"2,169 Sq Ft",0.26 Acres,2023
+202,"39 Sportsman Blvd, Hamilton, NJ, 08690","$573,500",Townhouse,3,2.5,"2,491 Sq Ft","4,705 Sq. Ft.",2022
+203,"115 Rutland Ct, Senoia, GA, 30276","$574,900",Single Family Residential,4,2.5,"2,552 Sq Ft",0.46 Acres,2023
+204,"45 Basie Ct, Monroe Township, NJ, 08831","$574,990",Townhouse,2,3,"2,111 Sq Ft",,2023
+205,"216 Borden Ave, Asbury Park, NJ, 07712","$575,000","Single Family, Detached",4,2.5,"2,297 Sq Ft","5,662 Sq. Ft.",2022
+206,"315 Parisen Ave, Bayville, NJ, 08721","$575,888",Single Family Residential,4,3,"2,232 Sq Ft","10,001 Sq. Ft.",2023
+207,"58 Harvest Way, Little Falls, NJ, 07424","$577,440",Multi-Family (2-4 Unit),2,3.5,"1,499 Sq Ft",,2023
+208,"803 Harrison St, Frenchtown, NJ, 08825","$577,500",Single Family Residential,3,2.5,"2,189 Sq Ft","3,485 Sq. Ft.",2022
+209,"59 Swackhammer Way, Mount Olive Twp., NJ, 07828","$578,000",Townhouse,3,3.5,"2,398 Sq Ft","4,356 Sq. Ft.",2022
+210,"801 Harrison St, Frenchtown, NJ, 08825","$579,500",Single Family Residential,3,2.5,"2,194 Sq Ft","3,484 Sq. Ft.",2022
+211,"415 Poplar Ave, Woodbury Heights, NJ, 08097","$579,900",Single Family Residential,4,3.5,"2,990 Sq Ft",0.46 Acres,2023
+212,"943 Greenwood Ave, Aberdeen, NJ, 07735","$579,900",Single Family Residential,4,2.5,— Sq Ft,"5,001 Sq. Ft.",2023
+213,"9 Celia Dr, Sparta Twp., NJ, 07871","$579,900",Single Family Residential,4,2.5,— Sq Ft,"10,018 Sq. Ft.",2023
+214,"16 Fifth St, Barnegat, NJ, 08005","$579,900",Single Family Residential,4,2.5,"2,340 Sq Ft",0.46 Acres,2023
+215,"248 Congressional Ct, Moorestown, NJ, 08057","$579,955",Single Family Residential,4,3,"2,500 Sq Ft","5,500 Sq. Ft.",2023
+216,"2 Oneida Ct, Sicklerville, NJ, 08081","$584,900",Single Family Residential,4,2.5,"3,200 Sq Ft",0.44 Acres,2023
+217,"43 Basie Ct, Monroe Township, NJ, 08831","$584,990",Townhouse,2,3,"2,108 Sq Ft",,2023
+218,"1983 Breakers Dr, Barnegat, NJ, 08005","$585,000","Single Family, Attached",4,3,"2,340 Sq Ft",0.27 Acres,2021
+219,"86 Roseberry St, Phillipsburg Town, NJ, 08865","$589,900",Single Family Residential,4,2.5,"2,720 Sq Ft",0.27 Acres,2023
+220,"313 Fischer Ct #313, Rockaway Twp., NJ, 07866","$589,900",Townhouse,2,2,"1,637 Sq Ft",—,2021
+221,"5 Beaver Cir, Barnegat, NJ, 08005","$598,875",Single Family Residential,2,2,"1,748 Sq Ft","8,712 Sq. Ft.",2023
+222,"418 Elizabeth Ave, Toms River, NJ, 08753","$599,000","Single Family, Detached",4,2.5,"2,215 Sq Ft","6,098 Sq. Ft.",2023
+223,"306 W Youngs Ave Unit A, Wildwood, NJ, 08260","$599,000",Condo,3,2,"1,500 Sq Ft",—,2023
+224,"306 W Youngs Ave Unit B, Wildwood, NJ, 08260","$599,000",Condo,3,2,"1,500 Sq Ft",—,2023
+225,"306 W Youngs Ave Unit D, Wildwood, NJ, 08260","$599,000",Condo,3,2,"1,500 Sq Ft",—,2023
+226,"306 W Youngs Ave Unit C, Wildwood, NJ, 08260","$599,000",Condo,3,2,"1,500 Sq Ft",—,2023
+227,"306 W Youngs Ave Unit E, Wildwood, NJ, 08260","$599,000",Condo,3,2,"1,500 Sq Ft",—,2023
+228,"306 W Youngs Ave Unit F, Wildwood, NJ, 08260","$599,000",Condo,3,2,"1,500 Sq Ft",—,2023
+229,"571 Copley Pl, Bayville, NJ, 08721","$599,000",Single Family Residential,3,2.5,"2,405 Sq Ft",0.34 Acres,2023
+230,"442 W Lincoln Ave #442, Wildwood, NJ, 08260","$599,000",Condo,3,2,— Sq Ft,—,2023
+231,"1 Beaver Cir, Barnegat, NJ, 08005","$599,275",Single Family Residential,2,2,"1,748 Sq Ft","8,712 Sq. Ft.",2023
+232,"209 W Bennett Ave #209, Wildwood, NJ, 08260","$599,609",Condo,3,2.5,"1,400 Sq Ft",—,2023
+233,"120 Woodland Ave, Ewing, NJ, 08638","$599,900",Single Family Residential,5,3.5,"1,881 Sq Ft",0.36 Acres,2023
+234,"915 2nd St, Union Beach, NJ, 07735","$599,900","Single Family, Detached",3,2.5,— Sq Ft,"2,500 Sq. Ft.",2023
+235,"94-96 Woodland Dr, Cliffwood Beach, NJ, 07735","$599,900","Single Family, Detached",4,2.5,— Sq Ft,"2,069 Sq. Ft.",2023
+236,"211 Park Ln, Dunellen, NJ, 08812","$599,900",Single Family Residential,3,2.5,"2,072 Sq Ft",—,2022
+237,"211 Park Ln #211, Dunellen Boro, NJ, 08812","$599,900",Townhouse,3,2.5,"2,109 Sq Ft",—,2022
+238,"140 Wisteria Ct, Freehold, NJ, 07728","$599,995","Adult Community, Detached",2,2,"1,670 Sq Ft","6,765 Sq. Ft.",2022
+239,"66 3rd St, Ocean Twp, NJ, 08759","$599,999",Single Family Residential,4,3,— Sq Ft,"10,018 Sq. Ft.",2022
+240,"9 Staysail Ave, Barnegat, NJ, 08005","$605,195",Single Family Residential,4,2.5,"2,867 Sq Ft",0.62 Acres,2023
+241,"156 W Front St #18, Keyport, NJ, 07735","$609,900",Condo,3,3.5,"2,484 Sq Ft",—,2023
+242,"Home Site 11 14 Baldwin Ct, Medford, NJ, 08055","$613,880",Single Family Residential,3,2.5,"2,660 Sq Ft",,2023
+243,"173 Churchill Blvd, New Egypt, NJ, 08533","$615,000","Adult Community, Detached",3,3.5,"2,913 Sq Ft","4,661 Sq. Ft.",2022
+244,"38 Phoebe Dr, Barnegat, NJ, 08005","$617,195",Single Family Residential,4,2.5,"2,867 Sq Ft",,2023
+245,"211 Englewood Blvd, Hamilton, NJ, 08690","$618,632",Townhouse,3,2.5,"2,471 Sq Ft","6,020 Sq. Ft.",2022
+246,"32 Jeanette St, Carteret, NJ, 07008","$619,900",Single Family Residential,4,2.5,"2,200 Sq Ft","3,311 Sq. Ft.",2023
+247,"Lot 1 Pedricktown Woodstown Rd, Pedricktown, NJ, 08067","$619,900",Single Family Residential,4,2.5,"2,743 Sq Ft",1.2 Acres,2023
+248,"211 Fischer #211, Rockaway Twp., NJ, 07866","$619,900",Townhouse,2,2,"1,997 Sq Ft",—,2021
+249,"204 Fischer #204, Rockaway Twp., NJ, 07866","$619,900",Townhouse,2,2,"1,997 Sq Ft",—,2021
+250,"212 Fischer #211, Rockaway Twp., NJ, 07866","$619,900",Townhouse,2,2,"1,997 Sq Ft",—,2021
+251,"8 Ward St, Bloomfield Twp., NJ, 07003","$619,999",Condo,2,3,"1,564 Sq Ft",—,2023
+252,"26 Deans Ct #27, Fairfield Twp., NJ, 07102","$620,000",Townhouse,3,2.5,— Sq Ft,2.15 Acres,2021
+253,"52 Harvest Way, Little Falls Twp., NJ, 07424","$622,940",Townhouse,3,2.5,"2,042 Sq Ft",—,2023
+254,"5 Deans Ct, Fairfield Twp., NJ, 07004","$625,000",Townhouse,2,2.5,— Sq Ft,2.15 Acres,2023
+255,"21 COMO Ter, Jefferson Twp., NJ, 07849","$625,000",Single Family Residential,4,2.5,"3,200 Sq Ft",0.41 Acres,2023
+256,"11 Seventh St, Hazlet, NJ, 07730","$629,000","Single Family, Detached",4,2.5,"2,400 Sq Ft",—,2023
+257,"1153 Plainfield Ave, Berkeley Heights Twp., NJ, 07922","$629,900",Single Family Residential,4,3.5,— Sq Ft,0.98 Acres,2022
+258,"30 Mordaunt Rd, Vernon Twp., NJ, 07462","$629,900",Single Family Residential,4,3.5,— Sq Ft,0.94 Acres,2023
+259,"20 Park Pl, Mount Olive Twp., NJ, 07836","$629,900",Single Family Residential,4,2.5,— Sq Ft,0.44 Acres,2023
+260,"50 Bennet Ln, Manahawkin, NJ, 08050","$631,950",Single Family Residential,4,3,"2,628 Sq Ft","7,500 Sq. Ft.",2022
+261,"54 Bennet Ln, Manahawkin, NJ, 08050","$634,450",Single Family Residential,4,3,"2,628 Sq Ft","7,500 Sq. Ft.",2022
+262,"2109 Mcdowell Rd, Monroe Township, NJ, 08831","$637,940",Multi-Family (2-4 Unit),3,3.5,"2,228 Sq Ft",,2023
+263,"2113 Mcdowell Rd, Monroe, NJ, 08831","$639,990",Condo,3,3.5,"2,228 Sq Ft",—,2023
+264,"11 Davon Ln, Hardyston Twp., NJ, 07419","$644,900",Single Family Residential,4,2.5,"2,550 Sq Ft",1.79 Acres,2023
+265,"415 S 7Th St, Newark City, NJ, 07103","$645,000",Multi-Family (2-4 Unit),6,4.5,"2,066 Sq Ft","2,613 Sq. Ft.",2023
+266,"60 Harvest Way, Little Falls Twp., NJ, 07424","$647,940",Townhouse,3,2.5,"2,042 Sq Ft",—,2023
+267,"Lot 2 Pedricktown Woodstown Rd, Pedricktown, NJ, 08067","$649,900",Single Family Residential,4,3,"2,892 Sq Ft",1.2 Acres,2023
+268,"15 Riverbend Ct, New Providence Boro, NJ, 07974","$649,900",Townhouse,2,2.5,"1,825 Sq Ft",2.11 Acres,2021
+269,"304 Fischer #304, Rockaway Twp., NJ, 07866","$649,900",Townhouse,2,2,"1,896 Sq Ft",—,2021
+270,"312 Fischer Ct #312, Rockaway Twp., NJ, 07866","$649,900",Townhouse,2,2,"1,896 Sq Ft",—,2021
+271,"204 Grand Central Pkwy, Bayville, NJ, 08721","$649,990",Single Family Residential,4,2.5,"2,340 Sq Ft",0.52 Acres,2023
+272,"204 Grand Central Pkwy, Bayville, Barnegat, NJ, 08005","$649,990",Single Family Residential,4,2.5,"2,340 Sq Ft",,2023
+273,"417 Conifer Dr, Forked River, NJ, 08731","$649,999",Single Family Residential,4,2.5,— Sq Ft,"9,374 Sq. Ft.",2023
+274,"301 Tyler Ct, Franklinville, NJ, 08322","$650,000",Single Family Residential,4,2.5,— Sq Ft,0.83 Acres,2021
+275,"311 Tyler Ct, Franklinville, NJ, 08322","$650,000",Single Family Residential,4,2.5,— Sq Ft,0.9 Acres,2021
+276,"312 Tyler Ct, Franklinville, NJ, 08322","$650,000",Single Family Residential,4,2.5,— Sq Ft,1.23 Acres,2021
+277,"305 Tyler Ct, Franklinville, NJ, 08322","$650,000",Single Family Residential,4,2.5,— Sq Ft,0.6 Acres,2021
+278,"307 Tyler Ct, Franklinville, NJ, 08322","$650,000",Single Family Residential,4,2.5,— Sq Ft,0.6 Acres,2021
+279,"304 Tyler Ct, Franklinville, NJ, 08322","$650,000",Single Family Residential,4,2.5,— Sq Ft,0.6 Acres,2021
+280,"309 Tyler Ct, Franklinville, NJ, 08322","$650,000",Single Family Residential,4,2.5,— Sq Ft,0.94 Acres,2021
+281,"302 Tyler Ct, Franklinville, NJ, 08322","$650,000",Single Family Residential,4,2.5,— Sq Ft,0.83 Acres,2021
+282,"308 Tyler Ct, Franklinville, NJ, 08322","$650,000",Single Family Residential,4,2.5,— Sq Ft,0.62 Acres,2021
+283,"310 Tyler Ct, Franklinville, NJ, 08322","$650,000",Single Family Residential,4,2.5,— Sq Ft,0.88 Acres,2021
+284,"8701 CHURCHILL Rd #506, North Bergen, NJ, 07047","$650,000",Condo,1,1,864 Sq Ft,—,2021
+285,"6 Heather Hills Rd, Washington Boro, NJ, 07882","$650,000",Single Family Residential,5,5.5,"3,500 Sq Ft",0.26 Acres,2023
+286,"105 Aaron Truehart Way, Hopewell, NJ, 08530","$652,990",Townhouse,3,4,"2,382 Sq Ft","1,200 Sq. Ft.",2023
+287,"121 Lewis Fisher Dr, Titusville, NJ, 08560","$657,490",Townhouse,3,3.5,"2,382 Sq Ft",,2023
+288,"8701 CHURCHILL Rd #606, North Bergen, NJ, 07047","$659,000",Condo,1,1,876 Sq Ft,—,2021
+289,"246 Van Dorn St, Keyport, NJ, 07735","$659,000","Single Family, Detached",4,2.5,"1,920 Sq Ft",—,2023
+290,"24 Chapel, Wall, NJ, 07753","$659,401","Single Family, Townhouse",3,2.5,"1,628 Sq Ft",—,2023
+291,"122 W Pine Ave, Wildwood, NJ, 08260","$659,900",Condo,4,2,"1,661 Sq Ft","3,999 Sq. Ft.",2023
+292,"0 P Patrick Ct, Toms River, NJ, 08755","$659,900",Single Family Residential,3,2.5,"2,275 Sq Ft",—,2023
+293,"75 Main St #2, Roxbury Twp., NJ, 07876","$659,900",Townhouse,3,2.5,— Sq Ft,—,2022
+294,"0 G Patrick Ct, Toms River, NJ, 08755","$659,900",Single Family Residential,4,2.5,"2,200 Sq Ft",—,2023
+295,"59 Pratt Ln, Lawrence Township, NJ, 08648","$659,990",Townhouse,3,2.5,"2,462 Sq Ft","2,794 Sq. Ft.",2022
+296,"31 Dolcie Ln, Lawrence Township, NJ, 08648","$660,000",Townhouse,3,2.5,"2,507 Sq Ft","2,794 Sq. Ft.",2023
+297,"910 Malden Dr, Cliffwood, NJ, 07735","$665,000","Single Family, Detached",4,2.5,"2,000 Sq Ft","5,001 Sq. Ft.",2023
+298,"427 Boxwood Dr, Forked River, NJ, 08731","$665,000",Single Family Residential,4,2.5,— Sq Ft,"7,802 Sq. Ft.",2023
+299,"123 Lewis Fisher Dr, Titusville, NJ, 08560","$667,490",Townhouse,3,3.5,"2,456 Sq Ft",,2023
+300,"117 Lewis Fisher Dr, Titusville, NJ, 08560","$667,490",Townhouse,3,3.5,"2,456 Sq Ft",,2023
+301,"117 Lewis Fisher Dr, Hopewell, NJ, 08525","$667,490",Townhouse,3,4,"2,382 Sq Ft","1,200 Sq. Ft.",2023
+302,"143 E Wildwood Ave #1, Wildwood, NJ, 08260","$669,000",Condo,4,2,— Sq Ft,—,2023
+303,"99 Bradshaw Dr, Manahawkin, NJ, 08050","$669,900","Single Family, Detached",4,3,"3,306 Sq Ft","7,405 Sq. Ft.",2021
+304,"6 Rachel Ct, Bayville, NJ, 08721","$669,900","Single Family, Detached",4,2.5,"2,651 Sq Ft",0.27 Acres,2023
+305,"10 Rachel Ct, Bayville, NJ, 08721","$669,900","Single Family, Detached",4,2.5,"2,606 Sq Ft",0.27 Acres,2023
+306,"55 Holloway Ave, Stafford, NJ, 08050","$670,000",Single Family Residential,5,4,"3,112 Sq Ft","7,200 Sq. Ft.",2021
+307,"Home Site 15 5 Ashborn Ln, Medford, NJ, 08055","$671,035",Single Family Residential,3,2.5,"2,660 Sq Ft",,2022
+308,"1136 Windward Ave, Beachwood, NJ, 08722","$674,900","Single Family, Detached",4,2.5,"2,445 Sq Ft","3,999 Sq. Ft.",2023
+309,"75 Main St #1, Roxbury Twp., NJ, 07876","$674,900",Townhouse,3,2.5,"2,500 Sq Ft",—,2023
+310,"62 Oakwood Blvd, Union Twp., NJ, 08827","$674,999",Single Family Residential,4,3.5,— Sq Ft,"7,840 Sq. Ft.",2022
+311,"8 Sterling Dr, Wantage Twp., NJ, 07461","$675,000",Single Family Residential,4,2.5,"2,976 Sq Ft",1.36 Acres,2023
+312,"12 Sterling Dr, Wantage Twp., NJ, 07461","$675,000",Single Family Residential,4,2.5,"2,486 Sq Ft",1.3 Acres,2023
+313,"2 Sander Way, Bayville, NJ, 08721","$675,000","Single Family, Detached",4,3,"2,480 Sq Ft",0.46 Acres,2023
+314,"26 Mountain View Rd, Lopatcong Twp., NJ, 08865","$675,000",Single Family Residential,4,2.5,— Sq Ft,0.64 Acres,2023
+315,"4514 Arctic Ave #4514, Wildwood, NJ, 08260","$675,000",Townhouse,4,3.5,"2,200 Sq Ft",—,2023
+316,"14 Mountain View Rd, Lopatcong Twp., NJ, 08865","$675,000",Single Family Residential,4,2.5,— Sq Ft,0.57 Acres,2023
+317,"52 Depot Way, Dunellen, NJ, 08812","$675,924",Townhouse,3,2.5,"2,072 Sq Ft",,2023
+318,"1 Melinda Ct, Bayville, NJ, 08721","$675,990","Single Family, Detached",4,2.5,"2,279 Sq Ft",—,2023
+319,"44 Riverwalk, Plainsboro, NJ, 08536","$678,000",Townhouse,3,2.5,"2,825 Sq Ft",—,2023
+320,"34 Dahlia, Warren Twp., NJ, 07059","$999,970",Townhouse,3,3.5,— Sq Ft,"2,613 Sq. Ft.",2023
+321,"8 Lilac, Warren Twp., NJ, 07059","$999,990",Townhouse,4,3.5,"2,753 Sq Ft","1,306 Sq. Ft.",2023
+322,"42 W Park Dr #302, Mountainside Boro, NJ, 07092","$999,990",Townhouse,3,2.5,"2,869 Sq Ft",—,2023
+323,"34 Park W, Mountainside Boro, NJ, 07092","$999,990",Townhouse,3,2.5,— Sq Ft,—,2023
+324,"4 Evelyn Ct, Cranbury, NJ, 08512","$999,995",Single Family Residential,2,2.5,"2,500 Sq Ft",,2023
+325,"122 NEW YORK Ave #302, JERSEY CITY, NJ, 07307","$999,999",Condo,3,2,"1,575 Sq Ft",—,2022
+326,"1559 Sussex Tpke Lot 4, Randolph Twp., NJ, 07869","$999,999",Single Family Residential,4,2.5,— Sq Ft,1.04 Acres,2023
+327,"22 Sanctuary Ln, Farmingdale, NJ, 07727","$1,001,373","Adult Community, Detached",4,3,"3,092 Sq Ft",0.3 Acres,2022
+328,"005 Balis Dr, Mullica Hill, NJ, 08062","$1,019,900",Single Family Residential,4,2.5,"4,402 Sq Ft",1 Acre,2023
+329,"44 Park W, Mountainside Boro, NJ, 07092","$1,024,990",Townhouse,3,2.5,— Sq Ft,—,2023
+330,"153 Sweetmans Ln Lot 202, Manalapan, NJ, 07726","$1,045,000","Single Family, Detached",5,5.5,"3,769 Sq Ft",0.98 Acres,2022
+331,"379 Cook Ave, Scotch Plains Twp., NJ, 07076","$1,049,000",Single Family Residential,4,3.5,— Sq Ft,"4,791 Sq. Ft.",2023
+332,"2732 West Ave #1, Ocean City, NJ, 08226","$1,049,900",Condo,3,2, Sq Ft,—,2023
+333,"7 Castle Stuart Ct, River Vale, NJ, 07675","$1,049,995",Condo,3,2.5,"2,700 Sq Ft",,2023
+334,"15 Saratoga Dr, Warren Twp., NJ, 07059","$1,059,278",Townhouse,3,2.5,"2,623 Sq Ft",—,2023
+335,"8701 CHURCHILL Rd #705, North Bergen, NJ, 07047","$1,065,000",Condo,2,2,"1,398 Sq Ft",—,2021
+336,"46 W Park Dr #501, Mountainside Boro, NJ, 07092","$1,074,990",Townhouse,3,2.5,"2,628 Sq Ft",—,2023
+337,"48 Doyle Dr, Florham Park Boro, NJ, 07932","$1,075,000",Townhouse,2,2.5,— Sq Ft,—,2022
+338,"216 Columbia Ave, Fort Lee, NJ, 07024","$1,079,000",Townhouse,3,3.5,— Sq Ft,"7,444 Sq. Ft.",2022
+339,"22 White Pine Rd, South Brunswick, NJ, 08831","$1,089,000",Single Family Residential,5,2.5,"32,225 Sq Ft",2.08 Acres,2023
+340,"39 King St, Clark Twp., NJ, 07066","$1,095,000",Single Family Residential,5,3,— Sq Ft,0.27 Acres,2022
+341,"903 Maple Ave, Linwood, NJ, 08221","$1,095,000",Single Family,5,4.5, Sq Ft,0.38 Acres,2023
+342,"402 Marissa Ln, Watchung Boro, NJ, 07069","$1,095,500",Townhouse,2,3.5,"2,965 Sq Ft",—,2023
+343,"542 Lincoln Ave, Scotch Plains Twp., NJ, 07076","$1,099,000",Single Family Residential,5,3.5,— Sq Ft,"3,484 Sq. Ft.",2023
+344,"521 Farm Rd, Hillsborough Twp., NJ, 08844","$1,099,000",Single Family Residential,5,3,— Sq Ft,1.41 Acres,2023
+345,"15 Huckleberry Ln, Morris Twp., NJ, 07960","$1,099,000",Townhouse,3,3.5,"2,844 Sq Ft",—,2022
+346,"8 Cole Pl, Cranbury, NJ, 08512","$1,099,995",Single Family Residential,3,3,"3,100 Sq Ft",,2023
+347,"301 Lakewood Rd, Neptune Township, NJ, 07753","$1,100,000","Single Family, Detached",5,4.5,"4,500 Sq Ft","4,356 Sq. Ft.",2023
+348,"12 Kelsch DR, Morris Plains, NJ, 07950","$851,411",Townhouse,—,—,— Sq Ft,—,—
+349,"3 Kelsch DR, Morris Plains, NJ, 07950","$842,028",Townhouse,—,—,— Sq Ft,—,—
